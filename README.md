@@ -1,2 +1,2 @@
 # rustbyexample
-rust learning curve
+Rust learning curve
